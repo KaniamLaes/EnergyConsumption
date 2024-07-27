@@ -1,0 +1,10 @@
+POST http://127.0.0.1:8000/predict
+
+{
+    "day_of_year": 150,
+    "hour": 14,
+    "day_of_week": 3,
+    "quarter": 2,
+    "month": 6,
+    "year": 2023
+}
